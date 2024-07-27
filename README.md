@@ -1,6 +1,6 @@
 Project: Library Management system 
 
-Class Diagram: This diagram will show relationship Between All classes.
+Class Diagram: This diagram will show the relationship Between All classes.
 
 +--------------------------+
 | LibraryManagementSystem  |
